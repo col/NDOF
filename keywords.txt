@@ -1,8 +1,8 @@
-Accelerometer 	KEYWORD1
-Compass				 	KEYWORD1
-Gyroscope 			KEYWORD1
-init 						KEYWORD2
-update					KEYWORD2
-x		 						KEYWORD2
-y 							KEYWORD2
-z 							KEYWORD2
+Accelerometer	KEYWORD1
+Compass	KEYWORD1
+Gyroscope	KEYWORD1
+init	KEYWORD2
+update	KEYWORD2
+x	KEYWORD2
+y	KEYWORD2
+z	KEYWORD2
